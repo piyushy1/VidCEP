@@ -1,0 +1,5 @@
+S1=[Object:{}; Object2ObjectRelation:{Overtake(Car,Car)}; Publisher:{2}; Window:{SlidingTimeWindow(8,7)}]%10*[Object:{Car}; Object2ObjectRelation:{Followsby(Car,Car)}; Publisher:{1}; Window:{TumblingTimeWindow(7)}]%10
+S2=[Object:{Car}; Object2ObjectRelation:{Followsby(Car,Car)}; Publisher:{1}; Window:{TumblingTimeWindow(7)}]%10
+S3=[Object:{Car,Person}; Object2ObjectRelation:{}; Publisher:{2}; Window:{SlidingCountWindow(4,2)}]%10
+S4=[Object:{}; Object2ObjectRelation:{Followsby(Car,Car)}; Publisher:{1}; Window:{TumblingCountWindow(7)}]; AND; [Object:{}; Object2ObjectRelation:{Overtake(Car,Car)}; Publisher:{2}; Window:{TumblingCountWindow(7)}]%10
+S5=[Object:{car&red,person}; Object2ObjectRelation:{Left(Car,Car)}; Publisher:{1}; Window:{TumblingCountWindow(5)}]%6

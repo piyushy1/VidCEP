@@ -1,0 +1,10 @@
+ ##command to log GPU usage
+ 
+ while true;  do nvidia-smi --query-gpu=utilization.gpu,utilization.memory,memory.total,memory.free,memory.used --format=csv >> gpu_utillization.log; sleep 0.1;  done
+ 
+ 
+ 
+ 
+ ## command to log CPU usage
+while true; do (echo "%CPU %MEM ARGS $(date)" && ps -e -o pcpu,pmem,args --sort=pcpu | cut -d" " -f1-5 | tail) >> ps.log; sleep 5; done
+ 
