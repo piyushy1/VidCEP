@@ -4,11 +4,13 @@ Please read the blogpost and paper  (coming soon) for details.
 
 ### Requirements
 VidCEP prototype is implemented in Java. Its python version will be released in future.
+
 **Software Requirements**
 You will need the following to be installed before running the system:
 1: Java 8
 2: Cuda 9.1 (Cuda 10 also works)
 3: CudNN
+
 **Hardware Requirements**
 1: GPU (tested on Nvidia Titan Xp with 12 GB RAM)
 2: The system can run on CPU also but you need to change the pom file for CPU related DL4j library
