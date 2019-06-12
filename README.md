@@ -34,5 +34,9 @@ The pom file is provided with all the required dependencies. The system runs ove
 
 
 ### Reference
-Please cite the paper if you are using any part of this work: 
+Please cite the paper if you are using any part of this work:
+
 [Preprint Version]https://www.researchgate.net/publication/333703842_VidCEP-Complex_Event_Processing_Framework_to_Detect_Spatiotemporal_Event_Patterns_in_Video_Streams
+
+### Contact
+In case of any queries or issue please connect with me at piyush.yadav@insight-centre.org
