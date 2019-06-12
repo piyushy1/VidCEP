@@ -17,7 +17,10 @@ You will need the following to be installed before running the system:
 3. Atleast 16 GB RAM
 
 
-### Step by Step Guide to install the requirements
+### Dependencies
+The pom file is provided with all the required dependencies. The system runs over Deeplearning 4j deeplearning library. Except this it requires opencv, jgrapht, ffmpeg and sl4j. 
+> Please make sure that you are using the same version of all the required dependencies for deeplearning4j. For example if dl4j version 1.0.0 beta is used then make sure all other required dependencies like nd4j etc. should have the same version number.
+
 
 
 ### VidCEP directory strucutre
