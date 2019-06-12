@@ -1,1 +1,1 @@
-S1=[Object:{}; Object2ObjectRelation:{SEQ(car,person)}; Publisher:{1}; Window:{TumblingTimeWindow(1700)}]%6
+S1=[Object:{car}; Object2ObjectRelation:{Left(car&Black,car&OtherColor)}; Publisher:{1}; Window:{TumblingTimeWindow(5)}]%6
