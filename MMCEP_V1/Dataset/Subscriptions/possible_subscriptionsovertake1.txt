@@ -1,1 +1,0 @@
-S1=[Object:{car,person}; Object2ObjectRelation:{Overtake(car,slot)}; Publisher:{1}; Window:{TumblingCountWindow(5)}]%6
