@@ -28,8 +28,9 @@ VidCEP can be run from the controller package. It has a run engine file from whe
 Please cite the paper if you are using any part of this work:
 
 >Yadav, Piyush, Edward Curry. “Vid-CEP: Complex Event Processing Framework for Detecting Spatiotemporal Event Patterns in Video Streams ”
+[Preprint Version- coming soon !!]
 
-[Preprint Version]https://www.researchgate.net/publication/333703842_VidCEP-Complex_Event_Processing_Framework_to_Detect_Spatiotemporal_Event_Patterns_in_Video_Streams
+https://www.researchgate.net/publication/333703842_VidCEP-Complex_Event_Processing_Framework_to_Detect_Spatiotemporal_Event_Patterns_in_Video_Streams
 
 ### Contact
 In case of any queries or issue please connect with me at piyush.yadav@insight-centre.org
