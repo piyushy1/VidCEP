@@ -22,7 +22,7 @@ The pom file is provided with all the required dependencies. The system runs ove
 > Please make sure that you are using the same version of all the required dependencies for deeplearning4j. For example if dl4j version 1.0.0 beta is used then make sure all other required dependencies like nd4j etc. should have the same version number. For CPU replace all dl4j cuda required dependencies with normal CPU version. For more please follow the given link: https://deeplearning4j.org/docs/latest/deeplearning4j-config-gpu-cpu
 
 ### Running the VidCEP Engine
-VidCEP can be run from the controller package. It has a run engine file from where the system can be intialised.  
+VidCEP can be run from the controller package. It has a run engine file from where the system can be intialised. A small video clip is provided in Dataset and publisher folder for initial analysis. Presently the subscriptioins are in form of Object, Object-Object(O-O) relation with windows and publisher information. The SQL query parser is coming soon. The subscription format provided works in the same way with all the functionalties discussed in paper.    
 
 ### Reference
 Please cite the paper if you are using any part of this work:
