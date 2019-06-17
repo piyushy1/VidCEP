@@ -14,7 +14,7 @@ You will need the following to be installed before running the system:
 **Hardware Requirements**
 1. GPU (tested on Nvidia Titan Xp with 12 GB RAM)
 2. The system can run on CPU also but you need to change the pom file for CPU related DL4j library. The CPU performance is very low.
-3. Atleast 16 GB RAM
+3. Atleast 12 GB RAM
 
 
 ### Dependencies
