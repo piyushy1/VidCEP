@@ -37,8 +37,7 @@ The query operator ‘Pass By’ is defined as ‘change in relative position of
 
 ![alt text](https://github.com/piyushy1/VidCEP/blob/master/MMCEP_V1/src/org/insight/nuig/subscriber/pass%20by.JPG)
 
-![Imgur](https://i.imgur.com/tSxyyXW.gifv)
-
+![Imgur](https://i.imgur.com/k8OHIuJ.gifv)
 4. Follows By
 5. Lane Change
 6. High Traffic Flow
