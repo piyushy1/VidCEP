@@ -36,6 +36,8 @@ We have created more complex spatiotemporal opertors and motivate different user
 The query operator ‘Pass By’ is defined as ‘change in relative position of the object (back-front) in the same direction of motion’. In Fig. 8, two frames of a video are shown at time ti and ti+j such that ti< ti+j. We see that relative position of object o_1 was ‘back’ of o_2 at ti which becomes ‘front’ at ti+j. This signifies that object o_1  crosses the o_2 in i+jth time instance. Thus, as per eq.1, we can write the ‘Pass By’ operator as:
 
 ![alt text](https://github.com/piyushy1/VidCEP/blob/master/MMCEP_V1/src/org/insight/nuig/subscriber/pass%20by.JPG)
+![alt text](https://imgur.com/tSxyyXW)
+
 
 4. Follows By
 5. Lane Change
