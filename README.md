@@ -50,9 +50,11 @@ The query operator ‘Pass By’ is defined as ‘change in relative position of
 Please cite the paper if you are using any part of this work:
 
 >Yadav, Piyush, Edward Curry. “Vid-CEP: Complex Event Processing Framework for Detecting Spatiotemporal Event Patterns in Video Streams ” in IEEE International Conference on Big Data (IEEE BigData) 2019, Los Angeles, USA.
-[Preprint Version- coming soon !!]
 
 https://www.researchgate.net/publication/333703842_VidCEP-Complex_Event_Processing_Framework_to_Detect_Spatiotemporal_Event_Patterns_in_Video_Streams
+
+>Yadav, Piyush, Dibya Prakash Das, and Edward Curry. "State Summarization of Video Streams for Spatiotemporal Query Matching in Complex Event Processing." In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), pp. 81-88. IEEE, 2019.
+https://ieeexplore.ieee.org/abstract/document/8999043/
 
 ### Contact
 In case of any queries or issue please connect with me at piyush.yadav@insight-centre.org
