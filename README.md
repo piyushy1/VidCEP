@@ -1,3 +1,6 @@
+# Note: 
+This repository is now old and will be archived in future. An new advance version of ViDCEP based on microservices and conatainers will be released soon.
+
 # VidCEP
 This is initial version of complex event processing framework to detect spatiotemporal event patterns in video streams.
 Please read the blogpost and paper  (coming soon) for details.
