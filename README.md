@@ -56,5 +56,8 @@ https://www.researchgate.net/publication/333703842_VidCEP-Complex_Event_Processi
 >Yadav, Piyush, Dibya Prakash Das, and Edward Curry. "State Summarization of Video Streams for Spatiotemporal Query Matching in Complex Event Processing." In 2019 18th IEEE International Conference On Machine Learning And Applications (ICMLA), pp. 81-88. IEEE, 2019.
 https://ieeexplore.ieee.org/abstract/document/8999043/
 
+>Yadav, Piyush, and Edward Curry. "VEKG: Video Event Knowledge Graph to Represent Video Streams for Complex Event Pattern Matching." In 2019 First International Conference on Graph Computing (GC), pp. 13-20. IEEE, 2019.
+https://www.researchgate.net/profile/Piyush_Yadav3/publication/336055490_VEKG_Video_Event_Knowledge_Graph_to_Represent_Video_Streams_for_Complex_Event_Pattern_Matching/links/5d9488b3458515202b7bc8ce/VEKG-Video-Event-Knowledge-Graph-to-Represent-Video-Streams-for-Complex-Event-Pattern-Matching.pdf
+
 ### Contact
 In case of any queries or issue please connect with me at piyush.yadav@insight-centre.org
