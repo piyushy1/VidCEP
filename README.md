@@ -1,5 +1,5 @@
 # Note: 
-This repository is now old and will be archived in future. An new advance version of ViDCEP based on microservices and conatainers will be released soon.
+This repository is now old (still functioning) and will be archived in future. An new advance version of VidCEP based on microservices and conatainers is getting released. Please refer to http://gnosis-mep.org/ for more details and update.
 
 # VidCEP
 This is initial version of complex event processing framework to detect spatiotemporal event patterns in video streams.
